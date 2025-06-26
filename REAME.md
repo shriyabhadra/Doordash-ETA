@@ -1,3 +1,3 @@
 Project
-hi
-ju
+print "hi"
+idk realy
